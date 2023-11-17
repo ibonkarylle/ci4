@@ -1,0 +1,129 @@
+CRITICAL - 2023-11-11 09:27:30 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:27:34 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:27:36 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:27:36 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:27:53 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:30:31 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:31:00 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:33:30 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:33:32 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:33:32 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:33:50 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:39:01 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:39:44 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 09:39:55 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:48:22 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:51:11 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:51:13 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:55:14 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:55:16 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:55:18 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:55:19 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:56:15 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:56:37 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:56:52 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:21 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:23 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:23 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:24 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:24 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:24 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:24 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:25 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:58:34 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:59:40 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:59:41 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 11:59:41 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:45 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:45 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:45 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:46 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:46 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:46 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-11 12:03:46 --> Cannot use ResponseTrait as ResponseTrait because the name is already in use
+in APPPATH\Controllers\MainController.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

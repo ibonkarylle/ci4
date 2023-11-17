@@ -1,0 +1,124 @@
+CRITICAL - 2023-11-16 11:33:47 --> Attempt to read property "username" on null
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 APPPATH\Controllers\MainController.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on null', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 11:34:07 --> Attempt to read property "username" on null
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 APPPATH\Controllers\MainController.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on null', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 11:34:07 --> Attempt to read property "username" on null
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 APPPATH\Controllers\MainController.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on null', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 11:34:07 --> Attempt to read property "username" on null
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 APPPATH\Controllers\MainController.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on null', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 11:34:07 --> Attempt to read property "username" on null
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 APPPATH\Controllers\MainController.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on null', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 11:34:08 --> Attempt to read property "username" on null
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 APPPATH\Controllers\MainController.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on null', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 11:47:55 --> Call to a member function move() on null
+in APPPATH\Controllers\MainController.php on line 125.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:18:12 --> Undefined array key "sender"
+in APPPATH\Controllers\MainController.php on line 156.
+ 1 APPPATH\Controllers\MainController.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sender"', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:18:31 --> Undefined array key "sender"
+in APPPATH\Controllers\MainController.php on line 156.
+ 1 APPPATH\Controllers\MainController.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sender"', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:28:03 --> Undefined variable $formData
+in APPPATH\Controllers\MainController.php on line 152.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $formData', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 152)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:29:21 --> Undefined variable $formData
+in APPPATH\Controllers\MainController.php on line 152.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $formData', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 152)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:29:51 --> Undefined variable $formData
+in APPPATH\Controllers\MainController.php on line 152.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $formData', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 152)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:34:30 --> Undefined array key "sender"
+in APPPATH\Controllers\MainController.php on line 157.
+ 1 APPPATH\Controllers\MainController.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sender"', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 157)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+CRITICAL - 2023-11-16 14:35:04 --> Undefined array key "sender"
+in APPPATH\Controllers\MainController.php on line 157.
+ 1 APPPATH\Controllers\MainController.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sender"', 'C:\\laragon\\www\\projectbackend\\app\\Controllers\\MainController.php', 157)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(89): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\projectbackend\\public\\index.php')
+ERROR - 2023-11-16 14:37:40 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 14:39:43 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 14:39:56 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 14:40:04 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 14:54:38 --> Empty values detected.
+ERROR - 2023-11-16 14:55:03 --> Empty values detected.
+ERROR - 2023-11-16 14:55:49 --> Empty values detected.
+ERROR - 2023-11-16 14:57:25 --> Exception: Undefined variable $formData
+ERROR - 2023-11-16 14:59:21 --> Empty values detected.
+ERROR - 2023-11-16 15:00:02 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 15:00:07 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 15:00:15 --> Exception: Undefined array key "sender"
+ERROR - 2023-11-16 15:04:01 --> Exception: Undefined property: App\Controllers\MainController::$validation

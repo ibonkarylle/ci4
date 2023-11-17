@@ -1,0 +1,59 @@
+ERROR - 2023-11-17 00:24:53 --> Email: sendWithSmtp throwed ErrorException: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in C:\laragon\www\projectbackend\system\Email\Email.php:1909
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'stream_socket_e...', 'C:\\laragon\\www\\...', 1909)
+#1 C:\laragon\www\projectbackend\system\Email\Email.php(1909): stream_socket_enable_crypto(Resource id #124, true, 121)
+#2 C:\laragon\www\projectbackend\system\Email\Email.php(1796): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\laragon\www\projectbackend\system\Email\Email.php(1681): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\laragon\www\projectbackend\system\Email\Email.php(1575): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\laragon\www\projectbackend\app\Controllers\MainController.php(165): CodeIgniter\Email\Email->send()
+#6 C:\laragon\www\projectbackend\system\CodeIgniter.php(919): App\Controllers\MainController->sendEmail()
+#7 C:\laragon\www\projectbackend\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#8 C:\laragon\www\projectbackend\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\projectbackend\public\index.php(89): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\projectbackend\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+ERROR - 2023-11-17 00:24:53 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-17 00:24:53 --> 220 smtp.gmail.com ESMTP az2-20020a17090b028200b002800b26dbc1sm2093916pjb.32 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [180.193.180.174]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 
+The following SMTP error was encountered: 
+ERROR - 2023-11-17 00:24:53 --> Email failed to send. Error: 220 smtp.gmail.com ESMTP az2-20020a17090b028200b002800b26dbc1sm2093916pjb.32 - gsmtp
+<br><pre>hello: 250-smtp.gmail.com at your service, [180.193.180.174]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>starttls: </pre>The following SMTP error was encountered: <br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Fri, 17 Nov 2023 00:24:42 +0000
+To: ashlyomanada@gmail.com
+From: &lt;ashlyomanada@gmail.com&gt;
+Return-Path: &lt;ashlyomanada@gmail.com&gt;
+Subject: =?UTF-8?Q?Request=20Form?=
+Reply-To: &lt;ashlyomanada@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: ashlyomanada@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6556b2ca72a115.51963355@gmail.com&gt;
+Mime-Version: 1.0
+
+</pre>
+ERROR - 2023-11-17 00:24:56 --> Email: sendWithSmtp throwed ErrorException: Uninitialized string offset 3 in C:\laragon\www\projectbackend\system\Email\Email.php:2103
+Stack trace:
+#0 C:\laragon\www\projectbackend\system\Email\Email.php(2103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\laragon\\www\\...', 2103)
+#1 C:\laragon\www\projectbackend\system\Email\Email.php(1979): CodeIgniter\Email\Email->getSMTPData()
+#2 C:\laragon\www\projectbackend\system\Email\Email.php(2206): CodeIgniter\Email\Email->sendCommand('quit')
+#3 [internal function]: CodeIgniter\Email\Email->__destruct()
+#4 {main}
