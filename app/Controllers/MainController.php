@@ -174,7 +174,46 @@ public function sendEmail()
         return $this->response->setJSON(['error' => 'Internal Server Error']);
     }
 }
+public function upload()
+{
+    $request = $this->request;
 
+    // Debugging to check what data is received
+    log_message('debug', print_r($request->getPost(), true));
+    log_message('debug', print_r($_FILES, true));
+    // Get the file
+    $file = $request->getFile('file');
+
+    // Move the file to the writable/uploads directory
+    $uploadsDirectory = FCPATH . 'uploads';  // Correct path using FCPATH
+
+    // Check if the directory exists, if not, create it
+    if (!is_dir($uploadsDirectory)) {
+        mkdir($uploadsDirectory, 0777, true);
+    }
+
+    $file->move($uploadsDirectory);
+
+    // Insert the user information into the database
+    $filePath = 'uploads/' . $file->getName();
+    
+    $userData = [
+        'username' => $request->getPost('username'),
+        'password' => password_hash($request->getPost('password'), PASSWORD_DEFAULT),
+        'confirmpassword' => $request->getPost('confirmpassword'),
+        'office' => $request->getPost('office'),
+        'phone_no' => $request->getPost('phone_no'),
+        'email' => $request->getPost('email'),
+        'image' => $filePath,
+    ];
+
+    // Assuming you have a model named MainModel, you can use it to insert data into the database
+    $main = new MainModel();
+    $main->insert($userData);
+
+    // Redirect back to the form with a success message
+    return redirect()->to('/')->with('success', 'Registration successful!');
+}
 
 
 
